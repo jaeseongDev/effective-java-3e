@@ -1,6 +1,8 @@
 public class App {
 
     public static void main(String[] args) {
-//        System.out.println(Character.newMage());
+        System.out.println(Elvis.INSTANCE);
+        System.out.println(Elvis.INSTANCE);
+        System.out.println(Elvis.INSTANCE);
     }
 }
